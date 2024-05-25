@@ -5,7 +5,7 @@ import sys
 
 # Replace 'YOUR_API_KEY' with your actual Google Cloud API key
 
-API_KEY = 'AIzaSyCDCxL_tRKZLKB02lTzFhtPwPCvrpHuP14'
+API_KEY = 'Your API Key'
 text=""
 
 if len(sys.argv) > 1:
